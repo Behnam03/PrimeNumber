@@ -1,1 +1,1 @@
-print('prim number')
+print('prim num')
